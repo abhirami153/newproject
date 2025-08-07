@@ -1,0 +1,1 @@
+A fully responsive and user-friendly restaurant website built using HTML, CSS, and Bootstrap. This project showcases essential features of a modern dining service platform including service offerings, gallery, contact form, and more.
